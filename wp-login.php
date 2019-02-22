@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Log In &lsaquo; Movies &#8212; WordPress</title>
+	<title>Log In &lsaquo; Plants &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' id='dashicons-css'  href='https://spangoal.club/wp-includes/css/dashicons.min.css?ver=5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='buttons-css'  href='https://spangoal.club/wp-includes/css/buttons.min.css?ver=5.1' type='text/css' media='all' />
@@ -58,7 +58,7 @@
 			</script>
 
 			<p id="backtoblog"><a href="https://spangoal.club/">
-		&larr; Back to Movies	</a></p>
+		&larr; Back to Plants	</a></p>
 			
 	</div>
 
