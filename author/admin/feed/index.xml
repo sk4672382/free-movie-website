@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; Movies</title>
-	<atom:link href="https://sk4672382.github.io/free-movie-website/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://sk4672382.github.io/free-movie-website/</link>
+	<atom:link href="https://spangoal.club/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://spangoal.club/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>
 	Thu, 21 Feb 2019 12:32:02 +0000	</lastBuildDate>
@@ -22,17 +22,17 @@
 	<generator>https://wordpress.org/?v=5.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://sk4672382.github.io/free-movie-website/hello-world/</link>
-				<comments>https://sk4672382.github.io/free-movie-website/hello-world/#comments</comments>
+		<link>https://spangoal.club/hello-world/</link>
+				<comments>https://spangoal.club/hello-world/#comments</comments>
 				<pubDate>Thu, 21 Feb 2019 11:11:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https://sk4672382.github.io/free-movie-website/?p=1</guid>
+		<guid isPermaLink="false">https://spangoal.club/?p=1</guid>
 				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 								<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://sk4672382.github.io/free-movie-website/hello-world/feed/</wfw:commentRss>
+							<wfw:commentRss>https://spangoal.club/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 	</channel>
